@@ -117,3 +117,16 @@ letter-spacing: 0.2px;
 color: #0D5C63;
 margin-right: 10px;
 }
+.container-1{
+padding: 35px 40px;
+}
+.finance-box{
+display: flex;
+flex-wrap: nowrap;
+}
+.box-item{
+border: 2px solid #737373;
+max-width: 328px;
+min-height: 242px;
+
+}
